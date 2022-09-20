@@ -57,6 +57,10 @@
 
 ![Output](./assets/Pic5.png)
 
+### Solution
+
+![solution](./assets/screenshot-3.png)
+
 4. Webiste Name: [OnePlus](https://www.oneplus.in/support)
 
 ### Topics
@@ -119,6 +123,10 @@
 
 ![Output](./assets/Pic11.png)
 
+### Solution
+
+![solution](./assets/screenshot-6.png)
+
 7. Webiste Name: [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
 ### Topics
@@ -138,6 +146,10 @@
 
 ![Output](./assets/Pic13.png)
 
+### Solution
+
+![solution](./assets/screenshot-7.png)
+
 8. Webiste Name: [Google](https://www.google.com/)
 
 ### Topics
@@ -155,6 +167,10 @@
 ### Output
 
 ![Output](./assets/Pic15.png)
+
+### Solution
+
+![solution](./assets/screenshot-8.png)
 
 9. Webiste Name: [Code Wars](https://www.codewars.com/)
 
@@ -195,6 +211,10 @@
 ### Output
 
 ![Output](./assets/Pic19.png)
+
+### Solution
+
+![solution](./assets/screenshot-10.png)
 
 11. Webiste Name: [realme](https://www.realme.com/in/)
 
@@ -301,6 +321,14 @@ Target the top description and change “Matching developers with great companie
 ### Output
 
 ![Output](./assets/Pic29.png)
+
+### Solution
+```
+const span = document.querySelectorAll(".page-title")[1];
+const htag = span.parentNode;
+htag.style.width = "w-100";
+htag.style.textAlign = "right";
+```
 
 16. Webiste Name: [Vercel](https://vercel.com/)
 
